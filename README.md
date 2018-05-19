@@ -1,5 +1,5 @@
 # csgo-external - csgo multi-cheat for linux
-This is a cheat for the 64 bit linux csgo (tested on ubuntu 17.04)  
+This is a cheat for the 64 bit linux csgo (tested on ubuntu 18.04)  
 It utilizes QT graphics library to draw ESP and other info on screen  
 
 If you were wondering, this is forked from bluemann, edited/optimized the code and added the features. I used a memory wrapper and glow read/write functionality from github user thisgamesux/s0beit.  
@@ -8,8 +8,11 @@ Development started 7/1/17
 
 Credits to:\
 github.com user thisgamesux\
-github.com user bluemann
-
+github.com user bluuman\
+\
+Special thanks to:\
+alpha version tester Awks, WhySoSerious @jwaim discord\
+\
 Thanks to every helpful person at unknowncheats!
 
 # installing and running
