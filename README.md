@@ -6,8 +6,8 @@ If you were wondering, this is forked from bluemann, edited/optimized the code a
 
 Development started 7/1/17  
 
-Credits to:
-github.com user thisgamesux
+Credits to:\
+github.com user thisgamesux\
 github.com user bluemann
 
 Thanks to every helpful person at unknowncheats!
@@ -60,15 +60,15 @@ NOTE:
 please make sure you have settings.cfg in the same directory as your current working directory when you run csgo-external (step 6), otherwise you will experience problems with libconfig not being able to find settings.cfg.
 
 # Cheat Features
-**BHop  
-Aim Assist  
-Glow  
-FOV Changer  
-RCS  
-RCS Crosshair  
-HitMarker  
-Trigger
-Auto-Click for pistol
+**BHop  \
+Aim Assist  \
+Glow  \
+FOV Changer  \
+RCS  \
+RCS Crosshair  \
+HitMarker  \
+Trigger\
+Auto-Click for pistol\
 ESP** - Boxes, Health, Line To Player, Name, Spectators, Player Status (Scoped/Defusing)
 
 ![Alt text](http://i.imgur.com/g2IU45i.jpg "screenshot")
