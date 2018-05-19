@@ -85,7 +85,7 @@ void qWindow::paintEvent(QPaintEvent *)
 
     pen.setColor(h.ShouldClick ? greenTrue : redFalse);
     painter.setPen(pen);
-    painter.drawText(settings::window::wind_width * .2, 115, (h.ShouldClickToggleKey + " Glow: " + helper::AtomicBoolToString(&h.ShouldClick)).c_str());
+    painter.drawText(settings::window::wind_width * .2, 115, (h.ShouldClickToggleKey + " Click: " + helper::AtomicBoolToString(&h.ShouldClick)).c_str());
 
     if (h.IsConnected())
     {
