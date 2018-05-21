@@ -118,9 +118,9 @@ Vector WorldToScreen(Vector &camerapos, Vector &enemy, QAngle &myvang, float FOV
 }
 
 QAngle addSalt(QAngle delta, float errormargin) {
-    delta.x = ((rand()/(float)RAND_MAX)*2 - 1) * errormargin;
-    delta.y = ((rand()/(float)RAND_MAX)*2 - 1) * errormargin;
-    delta.z = ((rand()/(float)RAND_MAX)*2 - 1) * errormargin;
+    delta.x += ((rand()/(float)RAND_MAX)*2 - 1) * errormargin;
+    delta.y += ((rand()/(float)RAND_MAX)*2 - 1) * errormargin;
+    delta.z += ((rand()/(float)RAND_MAX)*2 - 1) * errormargin;
     return delta;
 }
 
